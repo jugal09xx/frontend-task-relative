@@ -1,0 +1,121 @@
+.iconBox {
+  margin-bottom: -30%;
+}
+
+.cardLayout {
+  border-radius: 30px;
+  border: 0.5px solid rgba(107, 107, 107, 0.2),5;
+}
+
+.customCard {
+  width: 100%;
+  border: 1px solid #ffffff00;
+  padding: 5%;
+  padding-bottom: 2em;
+  background: linear-gradient(
+    180deg,
+    rgba(98, 106, 136, 0.1) 0%,
+    rgba(46, 49, 73, 0.1) 107.43%
+  );
+  backdrop-filter: blur(50px);
+  border-radius: 30px;
+}
+
+.coinLogo5{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(228, 45, 4, 0.1) 100%);
+backdrop-filter: blur(50px);
+
+    }
+
+.coinLogo4{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(234, 179, 0, 0.06) 100%);
+backdrop-filter: blur(50px);
+}
+
+.coinLogo3{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(237, 240, 244, 0.1) 100%);
+backdrop-filter: blur(50px);
+}
+
+.coinLogo2{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(220, 31, 255, 0.1) 100%);
+backdrop-filter: blur(50px);
+}
+
+.coinLogo{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(234, 179, 0, 0.06) 100%);
+backdrop-filter: blur(50px);
+}
+
+.borderDiv {
+  width: 95%;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#ecf0ff1a, #3b3f5700);
+  border-radius: 50px;
+}
+
+.priceBox {
+  width: 100%;
+  padding: 8px;
+  border-radius: 50px;
+}
+
+.popularPairDiv {
+  text-align: center;
+  border-radius: 50px;
+  background: #14172b;
+  padding: 8px;
+  width: 50%;
+}
+
+.icon {
+  height: 150px;
+  width: 150px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  background: #14172b;
+  position: relative;
+  bottom: 6em;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.variationText {
+  position: relative;
+  left: 31%;
+  top: 5em;
+}
